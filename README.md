@@ -1,4 +1,4 @@
-# Hi, I'm @sunnkr5 👋
+# Hi, I'm Sunny Kumar (@sunnkr5) 👋
 
 - 👀 I’m interested in Full Stack Development, Web Development, and learning new programming technologies.
 - 🌱 I’m currently learning Full Stack Development through freeCodeCamp, focusing on both frontend (HTML, CSS, JavaScript) and backend (Node.js, Express, databases).
