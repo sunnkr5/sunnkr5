@@ -6,6 +6,7 @@
 - 📫 How to reach me: You can reach me on GitHub or via email (sunnkr5@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a background in English and book publishing, and now I'm diving into the world of full-stack development!
+- Project Links: https://sunnkr5.github.io/Product-Landing-Page, https://sunnkr5.github.io/freecodecamp-projects/
 
 <!---
 sunnkr5/sunnkr5 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
