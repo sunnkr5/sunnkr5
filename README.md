@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a background in English and book publishing, and now I'm diving into the world of full-stack development!
 - Project Links: https://sunnkr5.github.io/Product-Landing-Page, https://sunnkr5.github.io/freecodecamp-projects/
+- My Certifications: https://www.freecodecamp.org/certification/sunnkr5/responsive-web-design
 
 <!---
 sunnkr5/sunnkr5 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
